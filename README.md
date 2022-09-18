@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Python, AWS software deployment**
 
-- ⚡ Fun fact **Sci-fi fan, High voltage geek in the past**
+- ⚡ Fun fact **Gravity is not real!**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
